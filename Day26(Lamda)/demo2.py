@@ -26,3 +26,10 @@ print(m(4,2))
 print((lambda a,b:a*b)(6,4))
 # 24
 
+res = (lambda a:a%2==0)(6)
+print(res)
+
+
+
+
+
